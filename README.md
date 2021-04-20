@@ -1,4 +1,4 @@
-# python-data-science
+# Project to study Data Science, work with open source data, and have some fun
 
 ## Folder classification_problems
 
