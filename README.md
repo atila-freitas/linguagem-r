@@ -1,8 +1,8 @@
-# Project to study Data Science, work with open source data, and have some fun
+# Project to study Data Science, work with open-source data, and have some fun
 
 ## Folder classification_problems
 
-NLP problems to a hire interview. 
+NLP problems to a hiring interview. 
 
 ## Folder instacart_data
 
