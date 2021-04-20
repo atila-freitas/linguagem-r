@@ -2,7 +2,7 @@
 
 ## Folder classification_problems
 
-NLP problems to a hiring interview. 
+NLP problems to a hiring interview. A few feature selection, some classification techniques, and discovering new concepts.
 
 ## Folder instacart_data
 
